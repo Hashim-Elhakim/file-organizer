@@ -17,3 +17,7 @@ A simple Python script that automatically organizes files into folders based on 
 
 ## Requirements
 - Python 3.8+
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
